@@ -1,3 +1,6 @@
 [submodule "aoop2012cjnu"]
 	path = aoop2012cjnu
 	url = https://github.com/msbaek/jeju-univ-2012.git
+[submodule "aoop2013cjnu"]
+	path = aoop2013cjnu
+	url = https://github.com/msbaek/jeju-univ-2013.git
